@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dy9bzh44c-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dy9bzh44c-python
